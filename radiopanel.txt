@@ -1,0 +1,261 @@
+"RadioPanel.txt"
+{
+
+//"SFUI_StandardRadio"
+//"SFUI_GroupRadio"	
+//"SFUI_ReportRadio"	
+	"Groups"
+	{
+		"skill"
+		{
+			"hotkey"	"0"
+			"title"	"技能"
+			"timeout"	"5"
+
+			"Commands"
+			{
+				"flashbang"
+				{
+					"hotkey"	"1"
+					"label"	"闪光弹"
+					"cmd"	"ent_flashbang"
+				}
+				
+				"molotov"
+				{
+					"hotkey"	"2"
+					"label"	"燃烧弹"
+					"cmd"	"ent_molotov"
+				}
+				
+				"burn"
+				{
+					"hotkey"	"3"
+					"label"	"起火"
+					"cmd"	"ent_burn"
+				}
+				
+				"kill"
+				{
+					"hotkey"	"4"
+					"label"	"幽灵杀"
+					"cmd"	"ent_kill"
+				}
+				
+				"drone"
+				{
+					"hotkey"	"5"
+					"label"	"无人机"
+					"cmd"	"ent_drone"
+				}
+
+  				"dronegun"
+				{
+					"hotkey"	"6"
+					"label"	"守卫机枪"
+					"cmd"	"ent_dronegun"
+				}
+				
+				"barrel"
+				{
+					"hotkey"	"7"
+					"label"	"油桶"
+					"cmd"	"ent_barrel"
+				}
+				
+				"chicken"
+				{
+					"hotkey"	"8"
+					"label"	"鸡"
+					"cmd"	"ent_chicken"
+				}
+				
+				"c4"
+				{
+					"hotkey"	"9"
+					"label"	"C4"
+					"cmd"	"ent_c4"
+				}
+			}
+		}
+
+		"standard"
+		{
+			"hotkey"	"1"
+			"title"	"#SFUI_CommandRadio"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				
+				"cheer"
+				{
+					"hotkey"	"1"
+					"label"	"#SFUI_Radio_Cheer"
+					"cmd"	"cheer"
+				}
+				
+				"compliment"
+				{
+					"hotkey"	"2"
+					"label"	"#SFUI_Radio_Compliment"
+					"cmd"	"compliment"
+				}
+				
+				"thanks"
+				{
+					"hotkey"	"3"
+					"label"	"#SFUI_Radio_Thanks"
+					"cmd"	"thanks"
+				}
+				
+				"fallback"
+				{
+					"hotkey"	"4"
+					"label"	"#SFUI_Radio_Fall_Back"
+					"cmd"	"fallback"
+				}
+				
+				"sticktog"
+				{
+					"hotkey"	"5"
+					"label"	"#SFUI_Radio_Stick_Together"
+					"cmd"	"sticktog"
+				}
+				
+				"holdpos"
+				{
+					"hotkey"	"6"
+					"label"	"#SFUI_Radio_Hold_Pos"
+					"cmd"	"holdpos"
+				}
+				
+				"followme"
+				{
+					"hotkey"	"7"
+					"label"	"#SFUI_Radio_Follow"
+					"cmd"	"followme"
+				}
+			}
+		}
+		
+		"group"
+		{
+			"hotkey"	"2"
+			"title"	"阴阳话"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"buhuiba"
+				{
+					"hotkey"	"1"
+					"label"	"不会吧"
+					"cmd"	"bhb"
+				}
+				
+				"jiuzhe"
+				{
+					"hotkey"	"2"
+					"label"	"就这"
+					"cmd"	"jz"
+				}
+				
+				"jile"
+				{
+					"hotkey"	"3"
+					"label"	"急了"
+					"cmd"	"jl"
+				}
+				
+				"zhenjile"
+				{
+					"hotkey"	"4"
+					"label"	"真急了"
+					"cmd"	"zjl"
+				}
+				
+				"shufule"
+				{
+					"hotkey"	"5"
+					"label"	"舒服了"
+					"cmd"	"sfl"
+				}
+				
+				"haoqilai"
+				{
+					"hotkey"	"6"
+					"label"	"好起来了"
+					"cmd"	"hql"
+				}
+				
+			}
+		}
+		
+		"report"
+		{
+			"hotkey"	"3"
+			"title"	"反挂斗士"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"womeikai"
+				{
+					"hotkey"	"1"
+					"label"	"我没开"
+					"cmd"	"wmk"
+				}
+				
+				"nimenxian"
+				{
+					"hotkey"	"2"
+					"label"	"是你们先开的"
+					"cmd"	"nmx"
+				}
+				
+				"kaile"
+				{
+					"hotkey"	"3"
+					"label"	"开了？"
+					"cmd"	"kl"
+				}
+				
+				"buyanle"
+				{
+					"hotkey"	"4"
+					"label"	"不演了？"
+					"cmd"	"byl"
+				}
+				
+				"shayi"
+				{
+					"hotkey"	"5"
+					"label"	"杀意感知"
+					"cmd"	"sy"
+				}			
+				
+				"haochuan"
+				{
+					"hotkey"	"6"
+					"label"	"好穿"
+					"cmd"	"hc"
+				}			
+				
+				"suozhu"
+				{
+					"hotkey"	"7"
+					"label"	"锁住"
+					"cmd"	"sz"
+				}			
+				
+				"cncs"
+				{
+					"hotkey"	"8"
+					"label"	"CNCS的希望"
+					"cmd"	"cncs"
+				}			
+			}
+		}
+	}
+}
