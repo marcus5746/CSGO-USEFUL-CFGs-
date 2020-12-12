@@ -3,7 +3,7 @@
 
 
 .cfg文件放置位置：  
-									C:\Program Files (x86)\Steam\userdata\849360533\730\local\cfg
+									C:\Program Files (x86)\Steam\userdata\[SteamID]\730\local\cfg
 									
 radiopanel.txt文件放置位置：
 									\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\ui
