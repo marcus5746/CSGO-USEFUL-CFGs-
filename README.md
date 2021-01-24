@@ -3,10 +3,13 @@
 
 
 .cfg文件放置位置：  
-									C:\Program Files (x86)\Steam\userdata\[SteamID]\730\local\cfg
+C:\Program Files (x86)\Steam\userdata\[SteamID]\730\local\cfg
 									
 radiopanel.txt文件放置位置：
-									\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\ui
+\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\ui
+
+
+
 进入游戏后按键无反应解决方案：
 1.打开控制台
 2.若控制台显示一堆unknown command的反馈，则
