@@ -1,0 +1,28 @@
+@echo off
+
+start "" "https://steamcommunity.com/groups/ZouW"
+start "" "https://steamcommunity.com/groups/ZouS"
+start "" "https://steamcommunity.com/groups/ZouA"
+start "" "https://steamcommunity.com/groups/ZouD"
+start "" "https://steamcommunity.com/groups/ZouShift"
+start "" "https://steamcommunity.com/groups/DunCirl"
+start "" "https://steamcommunity.com/groups/ZouSpace"
+start "" "https://steamcommunity.com/groups/ZouH"
+start "" "https://steamcommunity.com/groups/Zou1"
+start "" "https://steamcommunity.com/groups/csgo_buy"
+start "" "https://steamcommunity.com/groups/csgo_molotov"
+start "" "https://steamcommunity.com/groups/csgo_flashbang"
+start "" "https://steamcommunity.com/groups/csgo_smokegrenade"
+start "" "https://steamcommunity.com/groups/Zou44"
+start "" "https://steamcommunity.com/groups/Zou11"
+start "" "https://steamcommunity.com/groups/Zou22"
+start "" "https://steamcommunity.com/groups/csgo_c4_bomb"
+start "" "https://steamcommunity.com/groups/Zou33"
+start "" "https://steamcommunity.com/groups/csgo_lookat"
+start "" "https://steamcommunity.com/groups/csgo_voicerecord"
+start "" "https://steamcommunity.com/groups/csgo_clutch_mode_toggle"
+start "" "https://steamcommunity.com/groups/csgo_drop_gun"
+start "" "https://steamcommunity.com/groups/csgo_lastinv"
+start "" "https://steamcommunity.com/groups/AlMWAREcn"
+
+exit
