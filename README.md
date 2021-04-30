@@ -9,6 +9,8 @@ radiopanel.txt文件放置位置：
 \Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\ui
 
 
+请使用文件包中的bat文件加入对应的steam组
+
 
 进入游戏后按键无反应解决方案：
 1.打开控制台
